@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\WhileForEach\WhileForEach\bin\Debug\WhileForEach.exe.config
+C:\Users\LENOVO\source\repos\WhileForEach\WhileForEach\bin\Debug\WhileForEach.exe
+C:\Users\LENOVO\source\repos\WhileForEach\WhileForEach\bin\Debug\WhileForEach.pdb
+C:\Users\LENOVO\source\repos\WhileForEach\WhileForEach\obj\Debug\WhileForEach.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\WhileForEach\WhileForEach\obj\Debug\WhileForEach.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\WhileForEach\WhileForEach\obj\Debug\WhileForEach.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\WhileForEach\WhileForEach\obj\Debug\WhileForEach.exe
+C:\Users\LENOVO\source\repos\WhileForEach\WhileForEach\obj\Debug\WhileForEach.pdb
